@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Alarm Clock</string>
+    <string name="action_amPm">AM/PM</string>
+    <string name="set_the_alarm">Please set the alarm</string>
+    <string name="alarm_on">Alarm on</string>
+    <string name="alarm_off">Alarm off</string>
+    <string name="action_24h">24H</string>
+
+    <string-array name="alarm_array">
+
+        <item>Alarm sounds</item>
+        <item>Analog Watch Alarm</item>
+        <item>Tibetan Bells</item>
+        <item>Clock Chimes</item>
+        <item>Glass Ping</item>
+        <item>Loud Alarm Clock Buzzer</item>
+        <item>Massive War With Alarm</item>
+        <item>Metal Gong</item>
+        <item>Old Fashioned Door Bell</item>
+        <item>Old Fashioned School Bell</item>
+        <item>Service Bell</item>
+        <item>SOS Morsecode</item>
+        <item>Tolling Bell</item>
+        <item>Whistling At Girl</item>
+
+    </string-array>
+</resources>

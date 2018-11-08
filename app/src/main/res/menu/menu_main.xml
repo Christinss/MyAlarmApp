@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.tina.myalarmapp.MainActivity">
+
+    <!--<item android:id="@+id/action_settings"
+        android:title="Settings"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>-->
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/action_AmPm"
+        android:title="@string/action_amPm"
+         />
+    <item
+        android:id="@+id/action_24h"
+        android:title="@string/action_24h"
+        />
+
+</group>
+</menu>
